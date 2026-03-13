@@ -2,3 +2,4 @@ Developer: Manjot Singh
 Project: Git Practice
 Technology: HTML, CSS, JS
 Purpose: Learning Git and GitHub
+DevOps
